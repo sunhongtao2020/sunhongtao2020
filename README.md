@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sunhongtao2020
+- 👀 I’m interested in C++, java, android, python, simulation(dynamics/optics/electromagnetism/hydromechanics)
+- 🌱 I’m currently learning quantum computation
+- 💞️ I’m looking to collaborate on Qt(C++) for simulation
+- 📫 How to reach me --my email--> sunhongtao2020@sina.com
